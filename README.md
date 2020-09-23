@@ -3,8 +3,8 @@ Toggle between available themes
 
 ## Dark Theme
 
-![](Screenshots/Dark Theme.png)
+![](Screenshots/Dark-Theme.png)
 
 ## Light Theme
 
-![](Screenshots/Light Theme.png)
+![](Screenshots/Light-Theme.png)
