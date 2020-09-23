@@ -1,0 +1,16 @@
+body{
+    margin: 5em;
+}
+
+#toggle{
+    margin: auto;
+    text-align: center;
+}
+
+#text{
+    margin: auto;
+    text-align: center;
+    font-weight: 900;
+    font-size: 4em;
+}
+
